@@ -15,5 +15,4 @@
    <a href="https://instagram.com/ivson_ramos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:ivson.ramos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/ivson-ramos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://angular.dev/" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fx.com%2Fangular&psig=AOvVaw3Ktpo0IuNsiBPsC2Xo28kM&ust=1740754225149000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiP5P-M5IsDFQAAAAAdAAAAABAE" target="_blank"></a>
    </divi>
